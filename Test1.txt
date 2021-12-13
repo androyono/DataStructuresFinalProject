@@ -1,0 +1,177 @@
+Script started on Thu 14 May 2020 07:30:13 PM PDT
+[?1034hbash-4.2$ ./a.oug++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp
+bash-4.2$ g++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp[C[C[C[C[C[C[C[C[C[C./a.out[K
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 1
+Enter the file name with extension: data.txt
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 2
+Input a movie name/title: zmovie1
+zmovie1 not found.
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 3
+0:[ amovie1+date1+stars1+dirs1 amovie15+date15+stars15+dirs15 ]
+1:[ bmovie2+date2+stars2+dirs2 ]
+2:[ cmovie3+date3+stars3+dirs3 cmovie5+date5+stars5+dirs5 cmovie26+date26+stars26+dirs26 ]
+3:[ dmovie4+date4+stars4+dirs4 dmovie6+date6+stars6+dirs6 dmovie27+date27+stars27+dirs27 ]
+4:[ emovie7+date7+stars7+dirs7 emovie14+date14+stars14+dirs14 ]
+5:[ fmovie8+date8+stars8+dirs8 ]
+6:[ gmovie9+date9+stars9+dirs9 gmovie12+date12+stars12+dirs12 ]
+7:[ hmovie13+date13+stars13+dirs13 ]
+8:[ EMPTY ]
+9:[ EMPTY ]
+10:[ kmovie32+date32+stars32+dirs32 ]
+11:[ EMPTY ]
+12:[ EMPTY ]
+13:[ EMPTY ]
+14:[ EMPTY ]
+15:[ EMPTY ]
+16:[ EMPTY ]
+17:[ EMPTY ]
+18:[ some title+123456+some Stars+some Directors ]
+19:[ EMPTY ]
+20:[ umovie33+date33+stars33+dirs33 ]
+21:[ EMPTY ]
+22:[ EMPTY ]
+23:[ EMPTY ]
+24:[ EMPTY ]
+25:[ EMPTY ]
+26:[ EMPTY ]
+27:[ EMPTY ]
+28:[ EMPTY ]
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 4
+Input name: zmovie1
+Input release date: 20date25
+Input stars: Rika
+Input directors: RikaD
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 1
+Enter the file name with extension: data.tst
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 1
+Enter the file name with extension: data.txt
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 3
+0:[ amovie1+date1+stars1+dirs1 amovie15+date15+stars15+dirs15 amovie1+date1+stars1+dirs1 amovie15+date15+stars15+dirs15 ]
+1:[ bmovie2+date2+stars2+dirs2 bmovie2+date2+stars2+dirs2 ]
+2:[ cmovie3+date3+stars3+dirs3 cmovie5+date5+stars5+dirs5 cmovie26+date26+stars26+dirs26 cmovie3+date3+stars3+dirs3 cmovie5+date5+stars5+dirs5 cmovie26+date26+stars26+dirs26 ]
+3:[ dmovie4+date4+stars4+dirs4 dmovie6+date6+stars6+dirs6 dmovie27+date27+stars27+dirs27 dmovie4+date4+stars4+dirs4 dmovie6+date6+stars6+dirs6 dmovie27+date27+stars27+dirs27 ]
+4:[ emovie7+date7+stars7+dirs7 emovie14+date14+stars14+dirs14 emovie7+date7+stars7+dirs7 emovie14+date14+stars14+dirs14 ]
+5:[ fmovie8+date8+stars8+dirs8 fmovie8+date8+stars8+dirs8 ]
+6:[ gmovie9+date9+stars9+dirs9 gmovie12+date12+stars12+dirs12 zmovie1+date25+Rika+RikaD gmovie9+date9+stars9+dirs9 gmovie12+date12+stars12+dirs12 ]
+7:[ hmovie13+date13+stars13+dirs13 hmovie13+date13+stars13+dirs13 ]
+8:[ EMPTY ]
+9:[ EMPTY ]
+10:[ kmovie32+date32+stars32+dirs32 kmovie32+date32+stars32+dirs32 ]
+11:[ EMPTY ]
+12:[ EMPTY ]
+13:[ EMPTY ]
+14:[ EMPTY ]
+15:[ EMPTY ]
+16:[ EMPTY ]
+17:[ EMPTY ]
+18:[ some title+123456+some Stars+some Directors some title+123456+some Stars+some Directors ]
+19:[ EMPTY ]
+20:[ umovie33+date33+stars33+dirs33 umovie33+date33+stars33+dirs33 ]
+21:[ EMPTY ]
+22:[ EMPTY ]
+23:[ EMPTY ]
+24:[ EMPTY ]
+25:[ EMPTY ]
+26:[ EMPTY ]
+27:[ EMPTY ]
+28:[ EMPTY ]
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 5
+Input a movie name/title: amovie1
+Deleted amovie1+date1+stars1+dirs1
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 6
+Enter the file name with extension: output.txt
+
+1. Load the list of movies from the data file
+2. Search for movie using the title / name
+3. See all the data on the screen
+4. Add a new movie
+5. Delete a movie
+6. Save the data to a file
+7. Exit
+
+Enter your choice (1..7): 7
+bash-4.2$ exit
+exit
+
+Script done on Thu 14 May 2020 07:32:22 PM PDT
